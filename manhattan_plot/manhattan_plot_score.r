@@ -9,8 +9,8 @@ data_file <- "manhattan.example.file.tsv"
 title <- data_file
 
 # Read main data, subset based on SNP index, and rename columns
-dt <- fread(data_file) %>%
-    rename(CHR = V1, BP = V2, SNP = V3, SCORE = V4, P = V5)
+dt <- fread(data_file)
+colnames(dt) <- c("CHR", "BP", "SNP", "SCORE", "P")
 
 # Initialize threshold and maximum values for plot
 fdr05 <- 16.6657
