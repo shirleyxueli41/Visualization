@@ -71,7 +71,7 @@ p <- myman.score(dt, title=title, cutoff=0, fdr05=fdr05, fdr20=fdr20)
 
 ggsave(
   plot = p,
-  filename = paste0(file, ".score.man.png"),
+  filename = paste0(data_file, ".score.man.png"),
   device = "png",
   dpi = 300,
   unit = "in",
