@@ -13,8 +13,8 @@ dt <- fread(data_file)
 colnames(dt) <- c("CHR", "BP", "SNP", "SCORE", "P")
 
 # Initialize threshold and maximum values for plot
-fdr05 <- 16.6657
-fdr20 <- 13.9365
+fdr05 <- 7
+fdr20 <- 10
 max.current <- 20
 	
 
