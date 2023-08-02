@@ -17,3 +17,4 @@ To run the script, ensure that you have the required libraries installed in your
 The script includes parameters for manually adjusting the positions of pie charts to avoid overlap and modifying the appearance of the map and charts. Feel free to adjust these as needed for your specific visualization preferences.
 
 ## Example plot
+![alt text](https://github.com/shirleyxueli41/Visualization/blob/main/PIE_CHARTS_US_MAP/Pie_Charts_on_US_Map_Energy_Sources_by_State.png)
