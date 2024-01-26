@@ -20,4 +20,3 @@ The script includes parameters for manually adjusting the positions of pie chart
 <img src="https://github.com/shirleyxueli41/Visualization/blob/main/PIE_CHARTS_US_MAP/Pie_Charts_on_US_Map_Energy_Sources_by_State.png">    
 
 
-https://github.com/shirleyxueli41/Visualization/blob/main/PIE_CHARTS_US_MAP/Pie_Charts_on_US_Map_Energy_Sources_by_State.png
